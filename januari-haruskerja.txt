@@ -1,5 +1,5 @@
-Rencana januari ini
--Harus dapat kerja apa saja dulu 
+##Rencana januari ini
+-Mendapat pekerjaan apa saja dulu $
 -Merencanakan lanagakah kedepan 
 -Bicara secara serius  
 -Menyelesaikan pembelajaran web
@@ -9,3 +9,7 @@ Rencana januari ini
  *Jualan
  *Berbicara
 -Belajar repo
+
+ ##Yang sudah terselesaikan 
+    *Sudah dapat pekerjaan walau tidak seberapa 
+    
